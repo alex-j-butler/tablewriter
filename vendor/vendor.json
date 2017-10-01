@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "b64yVZEKG21+a/xvcKEvqfai1ik=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "97311d9f7767e3d6f422ea06661bc2c7a19e8a5d",
+			"revisionTime": "2017-05-10T07:48:58Z"
+		}
+	],
+	"rootPath": "alex-j-butler.com/tablewriter"
+}
